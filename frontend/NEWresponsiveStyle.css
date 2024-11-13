@@ -1,0 +1,80 @@
+/* Chrome 22+, Safari 6.1+ */
+#toolbarContainer{display:none;}
+.loadOuter img{margin:0px auto; padding-top:0vh; position: absolute;
+  left: 50%;transform: translate(-50%, -50%); bottom:0;} 
+#load{
+    width:100%;
+    height:100vh;
+    position:fixed;
+    z-index:9999;padding:0; margin:0;background-size: cover;
+    background:url("images/loadback.webp") no-repeat center center;
+    /*background:url("images/l7.gif") no-repeat center 20vh;*/
+}
+#load h3{margin: 0px auto;margin-top:55vh; text-align:center;color:#fff;}
+  
+@media screen and (-webkit-min-device-pixel-ratio:0)
+and (min-resolution:.001dpcm),
+screen and(-webkit-min-device-pixel-ratio:0) 
+{
+    .gamebgg { height:100vh;padding-top:3vh; padding-bottom:3vh; } 
+}
+
+@supports (-moz-appearance:none) {
+  .gamebgg {padding-top:0vh; padding-bottom:0vh; } 
+}
+
+@media screen and (max-width: 1000px) { 
+    /*new css start here*/
+    
+.darkThemeColorrr{display:none;}
+.lightThemeColorrr{display:none;}
+.frNoMobileeee{display:none !important;}
+.forbtnnn .buttonouterdiv {width: 20vw !important;height: auto !important;}
+.forbtnnn button{font-size:1.6vw !important;} 
+.radiolabelOuter{height:auto;}
+
+
+/*new css end here*/
+
+.wrapper{top:22vh;} 
+.forspinner .wrapper .container img.spinarrowww{top: -3.4vh;}
+.frusernameHedddd h2.usernameee{font-size: 13px;left: 15px;bottom: -30px;
+  margin: 0px 0 0 0;top:unset;}
+.forTopFirstButtons{padding:0;}
+.forGifGoldCoinss{bottom:36vh;}
+.forspinner .wrapper .container{width:160px;height:160px;margin: 0;padding: 0;top: 0px;}
+#spin-btn {top: 48%;height: 30%;width: 30%;}
+.forbetttbtnnn{flex-direction:column;}
+.forspinner .wrapper .container img{top:0;}
+.forCirclebtnnn .radio-button label{margin:0; height:25px !important; line-height:25px!important;}
+.radio-button input[type="radio"]:checked + label{background:url("images/dallerActiveMob.png") no-repeat 0 0;width:59px;height:25px!important; line-height:25px!important;border-radius:0;}
+.forCirclebtnnn .radio-button label{background:url("images/dallerActiveMob.png") no-repeat 0 0;width:59px;height:25px!important; line-height:25px!important;border-radius:0;}
+.forbettt{padding: 2vh 0 0px 0;}
+.forbtnnn h6{margin:0; font-size:19px;}
+.showNobtn{margin-bottom:0;}
+.forbtnnn h6{line-height:1;}
+.forBottomCounterr{margin-bottom:0;}
+body #final-value{margin-top:3vh!important;margin-bottom:0!important;}
+.forBottomCounterr button{margin-top:-1px;}
+#wheel{border: 2px solid #804b14;outline: 10px solid #ebaa20;}
+}
+@media screen and (max-width: 767px) { 
+.forCircledNumberss{z-index:99999;}
+.forGameLogoScreen{height:92vh;}
+.settingsdroRight .modal-dialog{width:100% !important;}
+.settingsdroRight .modal-dialog ul li {margin: 0 2px;}
+.settingsdroLeft .dropdown{background: #39090b; padding: 5px;}
+.settingsdroLeft h4{width: 139px;background: #39090b;}
+.frSettings img {float: right;margin: 10px 0 0 0;background: #39090b;padding: 5px;}
+/*.allgamebgg{background: url("images/jackpotbggMobile.webp") no-repeat top center;}*/
+.settingsdroRight .modal-dialog ul{flex-wrap:wrap;}
+.settingsdroRight .modal-dialog ul li:last-child{margin-top:10px;}
+#myModalSetting .modal-dialog ul{margin-bottom:10px !important;}
+#myModalSetting .modal-dialog ul:last-child{margin-top:0 !important;}
+#myModalSetting .modal-dialog ul:last-child li{margin-top:0 !important;}
+#myModalSetting .modal-dialog ul li{margin-top:10px !important;}
+}
+@media screen and (max-width: 540px) { 
+.forGameLogoScreen{height:100vh;}
+.allgamebgg{background: url("images/jackpotbggMobile.webp") no-repeat center center;}
+}

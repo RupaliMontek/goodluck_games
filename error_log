@@ -1,0 +1,511 @@
+[03-Apr-2024 05:14:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:14:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:14:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:14:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:14:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:14:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:14:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:14:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:14:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:14:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:14:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:14:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/ in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:14:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:14:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/ in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:14:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:14:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:14:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:14:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/ in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:14:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:14:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:14:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:15:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:15:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/ in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:15:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:15:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/ in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:15:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:15:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/ in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:15:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:15:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:15:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:15:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/ in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:16:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:16:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/ in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:16:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:16:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:16:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:16:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/ in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:16:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:16:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:16:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/ in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/ in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:17:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/ in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:17:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:17:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php:136
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php(55): format_number(6, 2, NULL, Array)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(145): number_to_size(6, 2)
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/app/Views/errors/html/error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(241): include('/home/lucrative...')
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(112): CodeIgnit in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Helpers/number_helper.php on line 136
+[03-Apr-2024 05:17:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:17:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/ in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:17:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:17:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(ErrorException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/ in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[03-Apr-2024 05:17:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Locale' not found in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php:74
+Stack trace:
+#0 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/HTTP/ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/Debug/Exceptions.php(149): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Ex in /home/lucrativeesystem/public_html/fun.lucrative-esystem.com/system/I18n/TimeTrait.php on line 74
+[08-Jul-2024 09:57:45 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\SuperAdmin::balance_sheet() in /home3/goodluck/public_html/app/Controllers/SuperAdmin.php on line 75
+[08-Jul-2024 09:57:45 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\SuperAdmin::balance_sheet() in /home3/goodluck/public_html/app/Controllers/SuperAdmin.php on line 75
+[15-Jul-2024 07:42:59 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:42:59 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:00 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:00 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:01 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:01 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:01 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:02 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:02 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:02 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:02 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:03 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:03 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:04 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:04 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:05 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:05 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:06 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:06 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:06 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:07 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:07 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:07 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:07 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:08 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:08 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:09 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:09 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:09 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:09 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:09 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 07:43:10 UTC] PHP Fatal error:  Cannot redeclare App\Models\SuperAdmin_model::create_admin_account() in /home3/goodluck/public_html/app/Models/SuperAdmin_model.php on line 193
+[15-Jul-2024 11:45:10 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\SuperAdmin::index() in /home3/goodluck/public_html/app/Controllers/SuperAdmin.php on line 629
+[15-Jul-2024 11:45:10 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\SuperAdmin::index() in /home3/goodluck/public_html/app/Controllers/SuperAdmin.php on line 629
+[15-Jul-2024 11:46:11 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\SuperAdmin::index() in /home3/goodluck/public_html/app/Controllers/SuperAdmin.php on line 629
+[15-Jul-2024 11:46:11 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\SuperAdmin::index() in /home3/goodluck/public_html/app/Controllers/SuperAdmin.php on line 629
+[15-Jul-2024 11:46:11 UTC] PHP Fatal error:  Cannot redeclare App\Controllers\SuperAdmin::index() in /home3/goodluck/public_html/app/Controllers/SuperAdmin.php on line 629

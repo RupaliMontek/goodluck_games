@@ -1,0 +1,51 @@
+/*commented css is for old light theme*/
+/*.forbtnnn button{padding:0px 10px; width:199px; height:27px; background-color: red; background:url("images/discoBtn.png") no-repeat 0 0; font-weight:bold; text-align:center;}
+.gamebgg{background:url("images/goldcoins.png") no-repeat center center; height:100vh; width:100%;max-width: 100%; padding-top:0px; padding-bottom:0px;background-size: cover; position:relative;}
+#final-value{padding:0px 10px; width:136px; height:27px; background:url("images/valubtn.png") no-repeat 0 0; font-weight:bold; text-align:center; text-decoration:none; margin-bottom:4px; border-radius:10px; margin:-3.40vh auto 10px !important;}
+.forbetttbtnnn button{padding:0px; width:180px; background:url("images/redbtnnn.png") no-repeat 0 0; margin-right:10px; height:28px; border-radius:0; color:#fff !important; font-weight:bold; font-size:14px;border-radius: 11px;}
+.forbetttbtnnn button:hover{color:#fff;}
+.Bottomparttbtnnn button{padding:0px; width:180px; background:url("images/redbtnnn.png") no-repeat 0 0; font-weight:bold; margin-right:10px; height:28px; border-radius:0;color:#333; }
+.Bottomparttbtnnn button:hover{color:#333;}*/
+
+.darkThemeColorrr{display:none;}
+.lightThemeColorrr{display:block;}
+.forbtnnn .buttonouterdiv{width:14.568vw; height:1.977vw;position:relative;}
+.forbtnnn button{padding:0px 10px; background:none; /* For browsers that do not support gradients */ font-weight:bold; text-align:center;position:absolute;top:0; right:0; width:100%;font-size:1.171vw;}
+.gamebgg{background:url("images/goldcoinsNewLight.webp") no-repeat center center; height:100vh; width:100%;max-width: 100%; padding-top:0px; /*padding-bottom:40px;*/padding-bottom:0px;background-size: cover; position:relative;}
+/*#final-value{padding:0px 0.732vw; width:6.6vw; height:2.3vw; background:none;   font-weight:bold; text-align:center; text-decoration:none; margin-bottom:4px; border-radius:0px; margin:-1.289vw auto 0.5vw !important;position:relative;}*/
+#final-value p{position:absolute;left:0;top:0; width:100%;line-height:1.977vw;}
+.forbetttbtnnn .betttbtnnnouterdiv{width:13.177vw; height:1.977vw;position:relative;margin-right:0.732vw;}
+.forbetttbtnnn .betttbtnnnouterdiv button{padding:0px; background:none; color:#fff !important; border-radius: 0.805vw;font-weight:600; text-align:center;position:absolute;top:0; right:0; width:100%;font-size:1.171vw;line-height:height:1.977vw;}
+
+.forbetttbtnnn button:hover{color:#fff;}
+.Bottomparttbtnnn .betttbtnnnouterdiv{width:13.177vw; height:1.977vw;position:relative;margin-right:0.732vw;}
+.Bottomparttbtnnn button{padding:0px; background:none; color:#fff !important; border-radius: 0.805vw;font-weight:600; text-align:center;position:absolute;top:0; right:0; width:100%;font-size:1.171vw;line-height:height:1.977vw;}
+.frusernameHedddd h2.usernameee{background: #570a0a;border:0.073vw solid #f5de8c;color:#fff;text-shadow: 0px 0.073vw 0.22vw #333;}
+.Bottomparttbtnnn button:hover{color:#fff;}
+.forbtnnn h6{color:#570a0a; }
+.betttbtnnnouterdivforsmallbtnn button{color:#fff;}
+
+
+@-webkit-keyframes glowing {
+  0% {  -webkit-box-shadow: 1px 1px 3px red; }
+  50% {-webkit-box-shadow: 1px 1px 40px red; }
+  100% { -webkit-box-shadow: 1px 1px 3px red; }
+}
+
+@-moz-keyframes glowing {
+  0% {  -moz-box-shadow: 1px 1px 3px red; }
+  50% {  -moz-box-shadow: 1px 1px 40px red; }
+  100% { -moz-box-shadow: 1px 1px 3px red; }
+}
+
+@-o-keyframes glowing {
+  0% {box-shadow: 1px 1px 3px red; }
+  50% { box-shadow: 1px 1px 40px red; }
+  100% { box-shadow: 1px 1px 3px red; }
+}
+
+@keyframes glowing {
+  0% {box-shadow: 1px 1px 3px red; }
+  50% { box-shadow: 1px 1px 40px red; }
+  100% { box-shadow: 1px 1px 3px red; }
+}

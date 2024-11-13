@@ -1,0 +1,8 @@
+.forbtnnn button{padding:0px 10px; width:199px; height:27px; background-color: red; /* For browsers that do not support gradients */
+  background:url("images/discoBtn.png") no-repeat 0 0; font-weight:bold; text-align:center;}
+.gamebgg{background:url("images/goldcoins.png") no-repeat center center; height:100vh; width:100%;max-width: 100%; padding-top:0px; /*padding-bottom:40px;*/padding-bottom:0px;background-size: cover; position:relative;}
+#final-value{padding:0px 10px; width:136px; height:27px; background:url("images/valubtn.png") no-repeat 0 0;  /* For browsers that do not support gradients */  font-weight:bold; text-align:center; text-decoration:none; margin-bottom:4px; border-radius:10px; margin:-3.40vh auto 10px !important;}
+.forbetttbtnnn button{padding:0px; width:180px; background:url("images/redbtnnn.png") no-repeat 0 0; margin-right:10px; height:28px; border-radius:0; color:#fff !important; font-weight:bold; font-size:14px;border-radius: 11px;}
+.forbetttbtnnn button:hover{color:#fff;}
+.Bottomparttbtnnn button{padding:0px; width:180px; background:url("images/redbtnnn.png") no-repeat 0 0; font-weight:bold; margin-right:10px; height:28px; border-radius:0;color:#333; }
+.Bottomparttbtnnn button:hover{color:#333;}

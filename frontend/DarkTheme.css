@@ -1,0 +1,45 @@
+.forbtnnn button{padding:0px 10px; width:199px; height:27px; background-color: red; /* For browsers that do not support gradients */
+  background:url("images/discoBtnDark.png") no-repeat 0 0; font-weight:bold; text-align:center;}
+/* for cap section new css start here */
+.nopadBtnn{padding:0 !important;background:url("images/discoBtnDarkLarge.png") no-repeat 0 0 !important;width:398px!important;}
+/* for cap section new css end here */
+.gamebgg{background:url("images/goldcoinsDark.webp") no-repeat center center; height:100vh; width:100%;max-width: 100%; padding-top:0px; /*padding-bottom:40px;*/padding-bottom:0px;background-size: cover; position:relative;}
+#final-value{padding:0px 0px; width:70px; height:27px; background:url("images/valubtnDark.png") no-repeat 0 0;  /* For browsers that do not support gradients */  font-weight:bold; text-align:center; text-decoration:none; margin-bottom:4px; border-radius:0px; margin:-2.80vh auto 10px !important;}
+.forbetttbtnnn button{padding:0px; width:180px; background:url("images/redbtnnnDark.png") no-repeat 0 0; margin-right:10px; height:28px; border-radius:0; color:#333 !important; font-weight:bold; font-size:14px;border-radius: 11px;}
+.forbetttbtnnn button#betok{padding:0px; width:86px; background:url("images/redbtnnnDarksmall.png") no-repeat 0 0;}
+.forbetttbtnnn button#prevok{padding:0px; width:86px; background:url("images/redbtnnnDarksmall.png") no-repeat 0 0;}
+.forbetttbtnnn button:hover{color:#333;}
+.frusernameHedddd h2.usernameee{background: #b16300;border:1px solid #f8ecc7;color:#fff;text-shadow: 0px 1px 3px #333;}
+.Bottomparttbtnnn button{padding:0px; width:180px; background:url("images/redbtnnnDark.png") no-repeat 0 0; font-weight:bold; margin-right:10px; height:28px; border-radius:0;color:#333; }
+.Bottomparttbtnnn button:hover{color:#333;}
+.forbtnnn h6{color:#fff; }
+@-webkit-keyframes glowing {
+  0% {  -webkit-box-shadow: 1px 1px 3px yellow; }
+  50% {-webkit-box-shadow: 1px 1px 40px yellow; }
+  100% { -webkit-box-shadow: 1px 1px 3px yellow; }
+}
+
+@-moz-keyframes glowing {
+  0% {  -moz-box-shadow: 1px 1px 3px yellow; }
+  50% {  -moz-box-shadow: 1px 1px 40px yellow; }
+  100% { -moz-box-shadow: 1px 1px 3px yellow; }
+}
+
+@-o-keyframes glowing {
+  0% {box-shadow: 1px 1px 3px yellow; }
+  50% { box-shadow: 1px 1px 40px yellow; }
+  100% { box-shadow: 1px 1px 3px yellow; }
+}
+
+@keyframes glowing {
+  0% {box-shadow: 1px 1px 3px yellow; }
+  50% { box-shadow: 1px 1px 40px yellow; }
+  100% { box-shadow: 1px 1px 3px yellow; }
+}
+
+/* for cap section new css start here */
+@media screen and (max-width: 1000px) {
+.listForCap{width:300px;height:27px;display:flex;/*flex-wrap:wrap;*/}
+.nopadBtnn{padding:0 !important;background:url("images/discoBtnDarkLargeMob.png") no-repeat 0 0 !important;width:300px!important;}  
+}
+/* for cap section new css end here */

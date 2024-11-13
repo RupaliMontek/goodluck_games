@@ -1,0 +1,221 @@
+<?php
+
+use CodeIgniter\Router\RouteCollection;
+
+/**
+ * @var RouteCollection $routes
+ */
+$routes->get('/', 'Login::index');
+$routes->get('get_current_date_time', 'Request::get_current_date_time');
+// app/Config/Routes.php
+
+$routes->get('user/getPreviousBetData', 'User::getPreviousBetData');
+$routes->post('/toggle-maintenance', 'MaintenanceController::toggleMaintenance'); // AJAX request for toggle
+$routes->get('/maintenance', 'MaintenanceController@maintenancePage'); // Maintenance page
+$routes->get('/maintenance', 'MaintenanceController@maintenancePage'); 
+$routes->get('/maintenance-control', 'MaintenanceController::maintenanceControl');
+$routes->get('/MaintenanceController', 'MaintenanceController::index');
+$routes->get('superadmin/admin_user_list', 'SuperAdmin::admin_user_list');
+$routes->post('superadmin/delete', 'SuperAdmin::delete');
+$routes->post('superadmin/saveSelectedTime', 'SuperAdmin::saveSelectedTime');
+$routes->post('/update_timer_start_time', 'SuperAdmin::update_timer_start_time');
+$routes->post('superadmin/updateTimer', 'SuperAdmin::updateTimer');
+$routes->post('superadmin/get_universal_counter_timer_all', 'Superadmin::get_universal_counter_timer_all');
+$routes->post('superadmin/add_money', 'SuperAdmin::add_money');
+$routes->get('/maintenance', 'MaintenanceController::index');
+$routes->get('get_all_players_sum_and_values','SuperAdmin::get_all_players_sum_and_values');
+$routes->get('user/get_user_balance_amount', 'User::get_user_balance_amount');
+$routes->post('save_playing_no_details', 'User::save_playing_no_details');
+$routes->post('login/maintenance', 'Login::maintenance');
+$routes->post('login/update_password', 'Login::update_password');
+$routes->get('maintenancecontroller/toggle_maintenance', 'MaintenanceController::toggle_maintenance');
+$routes->get('login/toggleMaintenance', 'Login::toggleMaintenance');
+$routes->post('toggle-maintenance', 'MaintenanceController::toggleMaintenance');
+$routes->get('superadmin', 'SuperAdmin::index');
+$routes->get('superadmin/index', 'SuperAdmin::index');
+$routes->get('superadmin/run', 'SuperAdmin::run');
+$routes->get('superadmin/list_balance', 'SuperAdmin::list_balance');
+$routes->get('superadmin/list_balance/(:num)', 'SuperAdmin::list_balance/$1');
+$routes->get('admin/list_balance/(:num)', 'Admin::list_balance/$1');
+$routes->post('superadmin/delete_records', 'SuperAdmin::delete_records');
+$routes->get('superadmin/delete_records', 'SuperAdmin::delete_records');
+$routes->post('admin/delete_records', 'Admin::delete_records');
+$routes->get('admin/delete_records', 'Admin::delete_records');
+$routes->get('admin/index', 'Admin::index');
+ $routes->post('superadmin/index', 'SuperAdmin::index');
+//$routes->post('superadmin/index', 'SuperAdmin::index');
+$routes->post('user/update_wallet_amount', 'User::update_wallet_amount');
+$routes->add('superadmin/login', 'SuperAdmin::login');
+$routes->get('superadmin/admin_user_list', 'SuperAdmin::admin_user_list');
+$routes->get('superadmin/logout', 'SuperAdmin::logout');
+$routes->get('superadmin/players_score_details/(:num)', 'SuperAdmin::players_score_details/$1');
+$routes->add('superadmin/register', 'SuperAdmin::register');
+$routes->add('superadmin/create_account', 'SuperAdmin::create_account');
+$routes->get('superadmin/login_as/(:num)', 'SuperAdmin::login_as/$1');
+$routes->get('admin/players_list', 'Admin::players_list');
+$routes->post('superadmin/create_account_from_dashboard', 'SuperAdmin::create_account_from_dashboard');
+$routes->post('superadmin/save_section1_values', 'SuperAdmin::save_section1_values');
+$routes->post('admin/create_players_account', 'Admin::create_players_account');
+$routes->get('admin/someMethod', 'Admin::someMethod');
+
+$routes->get('superadmin/login_as/(:num)', 'SuperAdmin::login_as/$1');
+// $route->get('superadmin/logout', 'SuperAdmin::logout');
+$routes->get('superadmin/login_aslogin_as_user/(:num)', 'SuperAdmin::login_as_user/$1');
+// $routes->get('superadmin/dashboard', 'SuperAdmin::dashboard');
+$routes->get('superadmin/user_dashboard', 'SuperAdmin::user_dashboard');
+$routes->get('superadmin/home', 'SuperAdmin::create_account');
+$routes->get('superadmin/create_account_from_dashboard', 'SuperAdmin::create_account_from_dashboard');
+$routes->get('superadmin/user_dashboard', 'SuperAdmin::user_dashboard');
+$routes->get('superadmin/logohome', 'SuperAdmin::logohome');
+$routes->get('user/logohome', 'User::logohome');
+$routes->get('user/getNumbersAndTargetValue', 'User::getNumbersAndTargetValue');
+$routes->get('user', 'User::home', ['as' => 'user']);
+$routes->post('user/save', 'User::save');
+$routes->post('user/save_winning_detaills', 'User::save');
+$routes->post('user/save_bet', 'User::save_bet');
+
+$routes->get('superadmin', 'SuperAdmin::home', ['as' => 'superadmin']);
+$routes->get('user/getNumbersBasedOnMode', 'User::getNumbersBasedOnMode');
+$routes->get('superadmin/save_jackpot_mode_value', 'SuperAdmin::save_jackpot_mode_value'); 
+$routes->post('superadmin/save_jackpot_mode_value', 'SuperAdmin::save_jackpot_mode_value');
+$routes->get('user/saveStoppedNumber', 'User::saveStoppedNumber'); 
+$routes->post('user/saveStoppedNumber', 'User::saveStoppedNumber');
+
+$routes->get('user/getTargetValue', 'User::getTargetValue'); 
+$routes->post('user/getTargetValue', 'User::getTargetValue');
+
+
+
+$routes->get('user/getTargetValueForCurrentMinute', 'User::getTargetValueForCurrentMinute'); 
+$routes->post('user/getTargetValueForCurrentMinute', 'User::getTargetValueForCurrentMinute');
+
+$routes->get('user/get_number', 'User::getNumberFromDatabase');
+$routes->get('user/home', 'User::login');
+// $routes->get('user/saveStoppedNumber', 'User::saveStoppedNumber');
+$routes->get('user/get-number', 'User::getNumberFromDatabase');
+$routes->get('home_duplicate', 'User::my');
+$routes->get('user/user_history', 'User::user_history');
+$routes->get('send_balance_return_admin_withdraw', 'Withdraw::send_balance_return_admin_withdraw');
+$routes->get('withdraw/list_balance_admin_withdraw', 'Withdraw::list_balance_admin_withdraw');
+$routes->get('request/list_balance_admin_request', 'Request::list_balance_admin_request');
+$routes->get('request/send_balance_request_admin_withdraw', 'Request::send_balance_request_admin_withdraw');
+$routes->get('request/send_balance_request_admin_request', 'Request::send_balance_request_admin_request');
+$routes->get('withdraw/check_list_admin_user_admin_return_superadmin_withdraw', 'Withdraw::check_list_admin_user_admin_return_superadmin_withdraw');
+$routes->get('withdraw/superadmin_amount_change_return_status_change_withdraw', 'Withdraw::superadmin_amount_change_return_status_change_withdraw');
+$routes->get('check_player_user_withdraw_request_admin', 'Withdraw::check_player_user_withdraw_request_admin');
+$routes->get('check_admin_withdraw_request_status', 'Withdraw::check_admin_withdraw_request_status');
+$routes->get('check_admin_return_request_status', 'Request::check_admin_return_request_status');
+$routes->get('request/check_admin_request_status', 'Request::check_admin_request_status');
+$routes->post('request/change_status_player_request_amount', 'Request::change_status_player_request_amount');
+$routes->post('change_status_player_withdraw_request_amount', 'Withdraw::change_status_player_withdraw_request_amount');
+$routes->post('request_admin_balance_withdraw', 'Withdraw::request_admin_balance_withdraw');
+$routes->post('request/request_admin_balance_request', 'Request::request_admin_balance_request');
+$routes->get('home_duplicates', 'User::mys');
+$routes->get('logohome', 'User::logohome');
+$routes->get('home_duplicate_theme', 'User::home_duplicate_theme');
+$routes->get('home_duplicate_rupali', 'User::myR');
+$routes->post('get_last_10_win_numbers', 'User::get_last_10_result_win_numbers');
+$routes->get('get_last_10_win_numbers', 'User::get_last_10_result_win_numbers');
+$routes->post('getLast10WinNumbers_user', 'User::getLast10WinNumbers_user');
+
+$routes->get('superadmin/profile', 'SuperAdmin::profile'); 
+$routes->get('get_superadmin_wallet_balance_amount', 'SuperAdmin::get_superadmin_wallet_balance_amount'); 
+$routes->get('admin/profile', 'Admin::profile'); 
+$routes->get('superadmin/balance_sheet', 'SuperAdmin::balance_sheet');
+$routes->get('superadmin/balance_sheet_details', 'SuperAdmin::balance_sheet_details');
+$routes->get('superadmin/change_theme', 'SuperAdmin::change_theme');
+$routes->post('superadmin/save_theme', 'SuperAdmin::save_theme');
+$routes->post('user/getAssignedAmount', 'User::getAssignedAmount');
+$routes->get('user/login', 'User::login');
+$routes->post('user/login', 'User::login');
+$routes->get('user/home_spinner', 'User::home_spinner');
+$routes->get('spinner_jaywant', 'User::spinner_jaywant');
+$routes->get('spinner_jaywant', 'User::spinner_shweta');
+$routes->post('user/start_spinner', 'User::start_spinner');
+$routes->post('user/stop_spinner', 'User::stop_spinner');
+$routes->post('user/spin', 'User::spin');
+$routes->get('superadmin/login_as_user/(:num)', 'SuperAdmin::login_as_user/$1');
+$routes->get('superadmin/add_admin_user', 'SuperAdmin::add_admin_user');
+$routes->get('spinner', 'Spinner::index');
+$routes->get('spinner/index_for_malati_mam', 'Spinner::index_for_malati_mam');
+$routes->get('spinner/Sayali', 'Spinner::Sayali');
+$routes->get('spinner/Spinner_jay_old', 'Spinner::Spinner_jay_old');
+$routes->get('spinner/Shweta', 'Spinner::Shweta');
+$routes->get('spinner_shweta_latest', 'Spinner::spinner_shweta_latest');
+$routes->get('spinner_jay', 'Spinner::index_jaywant');
+$routes->get('spinner_shweta', 'Spinner::Shweta');
+$routes->get('malati', 'Spinner::malati');
+$routes->get('home_spinner', 'Spinner::home_spinner');
+$routes->get('spinner_shweta', 'Spinner::shweta');
+$routes->get('spinner_old_jay', 'Spinner::shweta');
+$routes->get('admin/add_player', 'Admin::add_player');
+$routes->get('superadmin/edit_admin_user/(:num)', 'SuperAdmin::edit_admin_user/$1');
+$routes->get('admin/edit_player_details/(:num)', 'Admin::edit_player_details/$1');
+$routes->get('admin/remove_player/(:num)', 'Admin::remove_player/$1');
+$routes->get('superadmin/remove_admin/(:num)', 'SuperAdmin::remove_admin/$1');
+$routes->post('superadmin/update_account_details_admin/(:num)', 'SuperAdmin::update_account_details_admin/$1');
+$routes->post('admin/update_players_account_details/(:num)', 'Admin::update_players_account_details/$1');
+$routes->post('admin/check_player_username_exist', 'Admin::check_player_username_exist');
+$routes->post('login/check_login', 'Login::check_login');
+$routes->post('check_login_new', 'Login::check_login_new');
+$routes->get('login/maintenance', 'Login::maintenance');
+$routes->get('admin/check_player_username_exist', 'Admin::check_player_username_exist');
+$routes->get('admin', 'Admin::index');
+$routes->get('login', 'Login::index');
+$routes->post('login/users_status_change', 'Login::users_status_change');
+$routes->post('login/auto_logout_main', 'Login::auto_logout_main');
+$routes->post('login/auto_logout', 'Login::auto_logout');
+$routes->get('login/auto_logout', 'Login::auto_logout');
+$routes->get('logout', 'Login::logout');
+$routes->get('superadmin', 'Superadmin::index'); 
+$routes->get('admin/list_balance_request_list_super_admin', 'Admin::list_balance_request_list_super_admin');
+$routes->get('admin/list_balance_return_list_super_admin', 'Admin::list_balance_return_list_super_admin');
+$routes->get('admin/send_balance_request_super_admin', 'Admin::send_balance_request_super_admin');
+$routes->get('admin/send_balance_return_super_admin', 'Admin::send_balance_return_super_admin');
+$routes->post('admin/send_balance_request_superadmin', 'Admin::send_balance_request_superadmin');
+$routes->post('admin/send_balance_return_superadmin', 'Admin::send_balance_return_superadmin');
+$routes->get('admin/send_balance_return_superadmin', 'Admin::send_balance_return_superadmin');
+$routes->get('superadmin/check_list_admin_user_admin_request_superadmin', 'SuperAdmin::check_list_admin_user_admin_request_superadmin');
+$routes->get('superadmin/check_list_admin_user_admin_return_superadmin', 'SuperAdmin::check_list_admin_user_admin_return_superadmin');
+$routes->get('admin/check_list_admin_user_admin_return_superadmin', 'Admin::check_list_admin_user_admin_return_superadmin');
+$routes->post('superadmin/change_status_admin_send_request_balance_amount', 'SuperAdmin::change_status_admin_send_request_balance_amount');
+$routes->post('superadmin/change_status_admin_send_return_balance_amount', 'SuperAdmin::change_status_admin_send_return_balance_amount');
+$routes->get('admin/superadmin_amount_change_request_status_change', 'Admin::superadmin_amount_change_request_status_change');
+$routes->get('admin/superadmin_amount_change_return_status_change', 'Admin::superadmin_amount_change_return_status_change');
+$routes->post('admin/view_notification_admin', 'Admin::view_notification_admin');
+$routes->post('admin/view_player_withdraw_request_notification_admin', 'Admin::view_player_withdraw_request_notification_admin');
+$routes->post('admin/view_notification_admin_return', 'Admin::view_notification_admin_return');
+$routes->get('superadmin/request_balance_amount_admin', 'SuperAdmin::request_balance_amount_admin');
+$routes->get('superadmin/return_balance_amount_admin', 'SuperAdmin::return_balance_amount_admin');
+$routes->post('superadmin/set_mode_session', 'SuperAdmin::set_mode_session');
+$routes->get('superadmin/history', 'SuperAdmin::history');
+$routes->get('superadmin/change_password', 'SuperAdmin::change_password');
+$routes->get('login/change_password', 'Login::change_password');
+$routes->get('superadmin/set_time', 'SuperAdmin::set_time');
+$routes->post('superadmin/updatePassword', 'SuperAdmin::updatePassword');
+$routes->post('superadmin/set_timer_duration', 'SuperAdmin::set_timer_duration');
+$routes->post('user/save_winning_details', 'User::save');
+$routes->get('superadmin/superadmin_under_admin_list/(:num)', 'SuperAdmin::superadmin_under_admin_list/$1');
+// $routes->get('admin/delete_player', 'Admin::delete_player');
+$routes->get('admin/delete_player//(:num)', 'Admin::delete_player/$1');
+// $routes->get('admin/edit_admin_user', 'Admin::edit_admin_user');
+$routes->get('admin/edit_admin_user/(:num)', 'Admin::edit_admin_user/$1');
+$routes->get('playgame', 'Player_controller::index');
+$routes->get('superadmin/user_history', 'SuperAdmin::user_history');
+$routes->get('superadmin/get_universal_counter_timer_all', 'SuperAdmin::get_universal_counter_timer_all');
+$routes->get('superadmin/admin_history', 'SuperAdmin::admin_history');
+// $routes->get('superadmin/login_as/(:num)', 'SuperAdmin::login_as/$1');
+$routes->get('user/getExcludedNumbers', 'User::getExcludedNumbers');
+$routes->get('user/get_universal_counter_timer_all', 'User::get_universal_counter_timer_all');
+$routes->get('spinner/get_universal_counter_timer_all', 'Spinner::get_universal_counter_timer_all');
+$routes->get('user/get_as_per_mode_array_numbers_array', 'User::get_as_per_mode_array_numbers_array');
+$routes->get('CronJob/checkMissingRecords', 'CronJob::checkMissingRecords');
+//$routes->post('CronJob/checkMissingRecords', 'CronJob::checkMissingRecords');
+
+$routes->get('user/final_spinner', 'User::final_spinner');
+///////////////////////////added by sayali
+$routes->get('superadmin/show_24_hour_result', 'SuperAdmin::show_24_hour_result');
+$routes->get('withdraw/update_score_withdraw', 'Withdraw::update_score_withdraw');
+$routes->get('request/update_score_request', 'Request::update_score_request');
+$routes->get('admin/update_score_admin', 'Admin::update_score_admin');
+

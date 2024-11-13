@@ -1,0 +1,55 @@
+/*commented css is for old light theme*/
+/*.forbtnnn button{padding:0px 10px; width:199px; height:27px; background-color: red; background:url("images/discoBtn.png") no-repeat 0 0; font-weight:bold; text-align:center;}
+.gamebgg{background:url("images/goldcoins.png") no-repeat center center; height:100vh; width:100%;max-width: 100%; padding-top:0px; padding-bottom:0px;background-size: cover; position:relative;}
+#final-value{padding:0px 10px; width:136px; height:27px; background:url("images/valubtn.png") no-repeat 0 0; font-weight:bold; text-align:center; text-decoration:none; margin-bottom:4px; border-radius:10px; margin:-3.40vh auto 10px !important;}
+.forbetttbtnnn button{padding:0px; width:180px; background:url("images/redbtnnn.png") no-repeat 0 0; margin-right:10px; height:28px; border-radius:0; color:#fff !important; font-weight:bold; font-size:14px;border-radius: 11px;}
+.forbetttbtnnn button:hover{color:#fff;}
+.Bottomparttbtnnn button{padding:0px; width:180px; background:url("images/redbtnnn.png") no-repeat 0 0; font-weight:bold; margin-right:10px; height:28px; border-radius:0;color:#333; }
+.Bottomparttbtnnn button:hover{color:#333;}*/
+
+
+
+.forbtnnn button{padding:0px 10px; width:199px; height:27px; background-color: red; /* For browsers that do not support gradients */
+  background:url("images/discoBtnNewLight.png") no-repeat 0 0; font-weight:bold; text-align:center;}
+/* for cap section new css start here */
+.nopadBtnn{background:url("images/discoBtnNewLightLarge.png") no-repeat 0 0 !important;width:398px!important;}
+/* for cap section new css end here */
+.gamebgg{background:url("images/goldcoinsNewLight.webp") no-repeat center center; height:100vh; width:100%;max-width: 100%; padding-top:0px; /*padding-bottom:40px;*/padding-bottom:0px;background-size: cover; position:relative;}
+#final-value{padding:0px 10px; width:70px; height:27px; background:url("images/valubtnNewLight.png") no-repeat 0 0;  /* For browsers that do not support gradients */  font-weight:bold; text-align:center; text-decoration:none; margin-bottom:4px; border-radius:0px; margin:-2.80vh auto 10px !important;}
+.forbetttbtnnn button{padding:0px; width:180px; background:url("images/redbtnnnNewLight.png") no-repeat 0 0; margin-right:10px; height:28px; border-radius:0; color:#fff !important; font-weight:bold; font-size:14px;border-radius: 11px;}
+.forbetttbtnnn button#betok{padding:0px; width:86px; background:url("images/redbtnnnNewLightsmall.png") no-repeat 0 0;}
+.forbetttbtnnn button#prevok{padding:0px; width:86px; background:url("images/redbtnnnNewLightsmall.png") no-repeat 0 0;}
+.forbetttbtnnn button:hover{color:#fff;}
+.Bottomparttbtnnn button{padding:0px; width:180px; background:url("images/redbtnnnNewLight.png") no-repeat 0 0; font-weight:bold; margin-right:10px; height:28px; border-radius:0;color:#fff !important; }
+.frusernameHedddd h2.usernameee{background: #570a0a;border:1px solid #f5de8c;color:#fff;text-shadow: 0px 1px 3px #333;}
+.Bottomparttbtnnn button:hover{color:#fff;}
+.forbtnnn h6{color:#570a0a; }
+@-webkit-keyframes glowing {
+  0% {  -webkit-box-shadow: 1px 1px 3px red; }
+  50% {-webkit-box-shadow: 1px 1px 40px red; }
+  100% { -webkit-box-shadow: 1px 1px 3px red; }
+}
+
+@-moz-keyframes glowing {
+  0% {  -moz-box-shadow: 1px 1px 3px red; }
+  50% {  -moz-box-shadow: 1px 1px 40px red; }
+  100% { -moz-box-shadow: 1px 1px 3px red; }
+}
+
+@-o-keyframes glowing {
+  0% {box-shadow: 1px 1px 3px red; }
+  50% { box-shadow: 1px 1px 40px red; }
+  100% { box-shadow: 1px 1px 3px red; }
+}
+
+@keyframes glowing {
+  0% {box-shadow: 1px 1px 3px red; }
+  50% { box-shadow: 1px 1px 40px red; }
+  100% { box-shadow: 1px 1px 3px red; }
+}
+/* for cap section new css start here */
+@media screen and (max-width: 1000px) {
+.listForCap{width:300px;height:27px;display:flex;/*flex-wrap:wrap;*/}
+.nopadBtnn{padding:0 !important;background:url("images/discoBtnNewLightMob.png") no-repeat 0 0 !important;width:300px!important;}  
+}
+/* for cap section new css end here */

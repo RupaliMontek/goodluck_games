@@ -1,0 +1,179 @@
+/* font for spinner numbers start here */
+@import url('https://fonts.googleapis.com/css2?family=Rozha+One&display=swap');
+/* end here */
+
+.gamebgg{background:url("images/goldcoins.png") no-repeat center center; min-height:500px; height:100vh; width:100%;max-width: 100%; padding-top:10px; padding-bottom:40px;
+  background-size: cover;}
+.gamebgg h1{ position: absolute;font-size: 4rem; bottom: 10%; left: 50%;
+  transform: translate(-50%, -50%);color: var(--gold_color); z-index:9999;}
+.gamebgg h2{ font-size: 4rem; color: var(--gold_color);line-height: 50px;
+  margin: 0 0 10px 0; padding: 0;} 
+.forTopFirstButtons{display:flex; justify-content:space-between; align-items:center; padding:15px 0;}
+.forbtnnn{display:flex; flex-direction:column; align-items:center;}
+.forbtnnn h6{color:#fff; font-size:21px; text-align:center; font-weight:bold; text-transform:uppercase;}
+.forbtnnn button{padding:0px 10px; width:200px;  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom right, red, yellow); font-weight:bold; }
+.fortextt{width:100%; text-align:center; display:block;margin:0 !important; padding:0 !important; position:absolute; z-index:9999;width: 98.2%;}
+.fortextt p{margin:0;}
+.forCircledNumberss{display:flex; justify-content:space-between; align-items:center; padding:10px 0 15px 0;}
+.forCirclebtnnn{display:flex; align-items:center;}
+.forCirclebtnnn button{padding:0px; width:60px; background:red; margin-right:10px; height:40px; border-radius:50%; display:flex; align-items:center; justify-content:center; color:#fff; font-size:13px; font-weight:bold; border:2px dashed #fff;}
+.forCirclebtnnn .green{ background-image: linear-gradient(to bottom right, #30a501, #1d6601);}
+.forCirclebtnnn .yellow{ background-image: linear-gradient(to bottom right, #dcca00, #8c8101);}
+.forCirclebtnnn .violet{ background-image: linear-gradient(to bottom right, #b202f3, #620086);}
+.forCirclebtnnn .red{ background-image: linear-gradient(to bottom right, #ca3a01, #7f2400);}
+.forCirclebtnnn .skyblue{ background-image: linear-gradient(to bottom right, #05b0f7, #0286bd);}
+.forCirclebtnnn .purple{ background-image: linear-gradient(to bottom right, #b500aa, #7d0176);}
+.forCirclebtnnn .orange{ background-image: linear-gradient(to bottom right, #d78901, #a16701);}
+.forCirclebtnnn .parrot{ background-image: linear-gradient(to bottom right, #01ee01, #03af03);}
+
+.forbettt{display:flex; justify-content:space-between; align-items:center; padding:15px 0 25px 0;position: relative;z-index: 9;}
+.forbetttbtnnn{display:flex; align-items:center;}
+.forbetttbtnnn button{padding:0px; width:160px; background:url("images/gamebtns.png") no-repeat 0 0; margin-right:10px; height:40px; border-radius:0; color:#333;font-weight:bold;}
+.forbetttbtnnn button:hover{color:#333;}
+
+.forBottompartt{display:flex; justify-content:space-between; align-items:center; padding:10px 0;position: relative; z-index: 9999;}
+.forBottompartt h6{color:#333; font-size:21px; text-align:center; background:#ffffff; border-radius:10px; padding:5px 50px; border-radius:10px; border:2px dashed #333;}
+.Bottomparttbtnnn{display:flex; align-items:center;}
+.Bottomparttbtnnn button{padding:0px; width:160px; background:url("images/gamebtns.png") no-repeat 0 0; font-weight:bold; margin-right:10px; height:40px; border-radius:0; }
+
+.forBottomCounterr{display:flex; justify-content:space-between; align-items:center; padding:0;position: relative;z-index: 9999; margin:70px 0 30px 0;}
+.CounterrOuterrbtn{display:flex; align-items:center; flex-direction:column; justify-content:center;}
+.showNobtn{padding:0px 10px; width:100px;  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom right, yellow, red); font-weight:bold; color:#333; font-size:13px; font-weight:bold; text-align:center; text-decoration:none; margin-bottom:4px; border-radius:10px;}
+.forBottomCounterr button{padding:0px; width:60px; background:url("images/goldbtn.png") no-repeat 0 0; margin-right:0; height:60px; border-radius:50%; color:#fff; font-size:14px; font-weight:700;}
+.forBottomCounterr button:hover{color:#fff;}
+
+/* css for spinner start here */
+*{
+  box-sizing:border-box;
+}
+.forspinner{margin:0;padding:0; display:flex;align-items:center;
+justify-content: center;height:100vh; overflow:hidden;position:absolute;z-index:99;top: 47%;
+            left: 50%; transform: translate(-50%, -50%);}
+.forspinnerInn{}
+.container{
+  background:url("images/spinwheel.png") no-repeat 0 0;
+  width:500px;
+  height:500px;
+  background-color: #ccc;
+  border-radius:50%;
+  /*border:15px solid #dde;*/
+  border-color: #d3ab48;
+  position: relative;
+  overflow: hidden;
+  transition: 5s;
+}
+
+.container div{
+  height:50%;
+  width:200px;
+  position: absolute;
+  clip-path: polygon(100% 0 , 50% 100% , 0 0 );
+  transform:translateX(-50%);
+  transform-origin:bottom;
+  text-align:center;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  font-size:40px;
+    text-shadow: 1px 1px #333;
+  font-family: "Rozha One", serif;
+  font-weight: 700;
+  font-style: normal;
+  /*font-family:sans-serif;*/
+  color:#fef78a;
+  /*left:135px;*/
+  left:150px;
+}
+
+.container .zero{
+  /*background-color: #3f51b5;
+  background-image: linear-gradient(0deg, #fbb804 , #feecba, #feecba, #fbb804);*/
+  left:50%;
+}
+.container .one{
+  transform: rotate(36deg);
+ /* background-color: #ff9800;
+  background-image: linear-gradient(0deg, #a37702 , #a2905f, #a2905f, #a37702);*/
+}
+.container .two{
+    transform:rotate(72deg);
+  /*background-color: #e91e63;
+  background-image: linear-gradient(0deg, #fbb804 , #feecba, #feecba, #fbb804);*/
+}
+.container .three{
+  transform: rotate(108deg);
+  /*background-color: #4caf50;
+  background-image: linear-gradient(0deg, #a37702 , #a2905f,  #a2905f, #a37702);*/
+}
+.container .four{
+  transform: rotate(144deg);
+  /*background-color: #009688;
+  background-image: linear-gradient(0deg, #fbb804 , #feecba, #feecba, #fbb804);*/
+}
+.container .five{
+ transform: rotate(180deg);
+    /*background-color: #795548;
+  background-image: linear-gradient(0deg, #a37702 , #a2905f, #a2905f, #a37702);*/
+}
+.container .six{
+  transform: rotate(216deg);
+  /*background-color: #9c27b0;
+  background-image: linear-gradient(0deg, #fbb804 , #feecba, #feecba, #fbb804);*/
+}
+.container .seven{
+  transform: rotate(252deg);
+  /*background-color: #f44336;
+  background-image: linear-gradient(0deg, #a37702 , #a2905f, #a2905f, #a37702);*/
+}
+.container .eight{
+    transform: rotate(288deg);
+  /*background-color: skyblue;
+   background-image: linear-gradient(0deg, #fbb804 , #feecba, #feecba, #fbb804);*/
+}
+.container .nine{
+  transform: rotate(324deg);
+  /*background-color: grey;
+  background-image: linear-gradient(0deg, #a37702 , #a2905f, #a2905f, #a37702);*/
+}
+
+.arrow{
+    background:url("images/arrow.png") no-repeat 0 0;
+  position: absolute;
+  top:0;
+  left:50%;
+  transform: translateX(-50%);
+  color:yellow;z-index:9999;
+  width: 30px;
+  height:94px;
+}
+
+/*.arrow::before{
+  content:"\1F817";
+  font-size:50px;
+}*/
+
+#spin{
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  z-index:10;
+  background-color: #070636;
+  text-transform: uppercase;
+  border:8px solid #f6da64;
+  font-weight:bold;
+  font-size:20px;
+  color:#fdd977;
+  width: 80px;
+  height:80px;
+  font-family: sans-serif;
+  border-radius:50%;
+  cursor: pointer;
+  outline:none;
+  letter-spacing: 1px;
+}
+/* css for spinner end here */
+
+/*sweta*/

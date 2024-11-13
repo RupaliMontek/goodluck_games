@@ -1,0 +1,26 @@
+
+    .bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: rgb(94 13 13) !important;
+}
+.text-white {
+    --bs-text-opacity: 1;
+    color: rgb(255 255 255) !important;
+}
+.nav-link {
+    display: block;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    color: #fff;
+    text-decoration: none;
+    background: 0 0;
+    border: 0;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
+}
+.logo {
+     /*margin-top: -30px;*/
+    margin-left: -100px;
+    width: 200px;
+    height: 50px;
+}

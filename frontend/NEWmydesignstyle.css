@@ -1,0 +1,425 @@
+/* font for spinner numbers start here */
+@import url('https://fonts.googleapis.com/css2?family=Rozha+One&display=swap');
+/* end here */
+@import url('https://fonts.googleapis.com/css2?family=Rozha+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bevan:ital@0;1&display=swap');
+
+
+/* CSS for the JOKER popup auto come start */ 
+.popup {
+  display: none;position: fixed;top: 50%;left: 50%;
+  transform: translate(-50%, -50%);background: #fff;
+  padding:0;border: 0px solid #ccc;width:100%; height:100vh;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);z-index:9;background: rgb(2,0,36,0.8);
+/*background: linear-gradient(90deg, rgba(1,160,198,1) 0%, rgba(0,60,120,1) 50%);*/ /*background:url(../images/freeconsultant.jpg) no-repeat 0 0;*/ z-index:9999999999; border-radius:0;text-align:center;}
+.popup img{border-radius:0; width:500px; height:auto;animation: zoomInOut 4s infinite;}
+.popup .poplinkkkk img{width:200px; height:auto;margin-top: 50px;}
+.frNoMobileeee{display:block;}
+.forbetttbtnnn .betttbtnnnouterdiv button{border-radius:0;}
+
+@keyframes zoomInOut {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+#popup p{font-size:2.196vw; font-weight:600; text-align:center;color:#fff;}
+.popup-close {position: absolute;top: 2px;right: 5px;cursor: pointer;z-index: 999; background: none;border-radius: 5px;color: #fff;border: none;font-size: 1.83vw;display:none;}
+#popup p a{color: #fff;background: green;width: 60px;height: 60px;
+  display: inline-block;border-radius: 50%;line-height: 64px;font-size:2.928vw;}
+.jackpot2_class {
+     font-family: "Bevan", serif !important;
+  font-weight: 400;
+  font-style: normal;
+ border-radius:0%;width:10%; height:1.611vw; line-height:1.611vw;
+/*box-shadow: 0 0 0 0 rgba(253, 244, 215, 0.7);
+-moz-animation: pulse 2s infinite;
+-webkit-animation: pulse 2s infinite;
+animation: pulse 2s infinite;*/
+/*animation: myglow 1300ms infinite;*/
+  animation: blinker 1s linear infinite;
+  background:rgb(255,255,255,0.5);font-size:1.318vw !important;color:#eb060d !important;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+ @keyframes myglow {
+        0% {
+          background: rgb(15,7,48,0.5);
+          box-shadow: 0 0 5px yellow;
+        }
+        50% {
+          background:rgb(15,7,48,0.5);
+          box-shadow: 0 0 20px yellow;
+        }
+        100% {
+          background:rgb(15,7,48,0.5);
+          box-shadow: 0 0 5px yellow;
+        }
+      }
+
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(253, 244, 215, 1);
+    }
+    70% {
+        box-shadow: 0 0 0 10px rgba(253, 244, 215, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 50px rgba(253, 244, 215, 0);
+    }
+}
+
+@keyframes zoomInOut {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+  
+/* CSS for the JOKER popup auto come end */
+.gamebgg{min-width:700px;max-width:100%;}
+.outerrrr{display:flex; align-items:center;width:100%;height:100vh;}
+.innerrrr{width:100%;}
+.forWholeBottomPart{position:static;margin:3vh 0 0 0;left:0;width:100%;}
+ .forGifGoldCoinss{position:absolute;z-index:9999 !important;/*background:url("images/pockergame.png") no-repeat bottom center;*/bottom:25.55vh;left:0; width:100%; /*height:249px;*/}
+ .forGifGoldCoinss img{width:100%;height:auto;}
+.gamebgg h1{ position: absolute;font-size: 4.685vw; bottom: 10%; left: 50%;
+  transform: translate(-50%, -50%);color: var(--gold_color); z-index:9999;}
+.gamebgg h2{ font-size: 4.685vw; color: var(--gold_color);line-height: 50px; 
+  margin: 0 0 10px 0; padding: 0;} 
+.forTopFirstButtons{display:flex; justify-content:space-between; align-items:center; padding:2.5vh 0;}
+.forbtnnn{display:flex; flex-direction:column; align-items:center;}
+.forbtnnn h6{font-size:1.537vw; text-align:center; font-weight:bold; text-transform:uppercase;margin-bottom: 1.36vh;}
+
+.fortextt{width:100%; text-align:center; display:block;margin:0 !important; padding:0 !important; position:absolute; z-index:9999;width: 98.2%;}
+.fortextt p{margin:0;}
+.forCircledNumberss{display:flex; justify-content:space-between; align-items:center; padding:1.70vh 0 0px 0;position:relative; z-index:9;}
+.forCirclebtnnn{display:flex; align-items:center;}
+.forCirclebtnnn .radio-button{display:flex; align-items:center;}
+.forCirclebtnnn .radio-button label{padding:0px; margin-right:0.732vw; display:flex; align-items:center; justify-content:center; color:#fff; font-size:1.245vw; font-weight:bold;background: none; text-shadow: 0px 1px 3px #333;line-height: 4.832vw !important; display: block;text-align: center; border-radius:50%;width:100%;}
+.radiolabelOuter{width: 4.832vw; height: 4.832vw;margin-right:0.732vw;}
+.radiolabel{position:relative;top:0;left:0;width:100%;}
+.radiolabel label{position: absolute; top: 50%;left: 50%;transform: translate(-50%, -50%);z-index:9;}
+  
+/*.forCirclebtnnn .radio-button label.green{ background-image: linear-gradient(to bottom right, #30a501, #1d6601);}
+.forCirclebtnnn .radio-button label.yellow{ background-image: linear-gradient(to bottom right, #dcca00, #8c8101);}
+.forCirclebtnnn .radio-button label.violet{ background-image: linear-gradient(to bottom right, #b202f3, #620086);}
+.forCirclebtnnn .radio-button label.red{ background-image: linear-gradient(to bottom right, #ca3a01, #7f2400);}
+.forCirclebtnnn .radio-button label.kyblue{ background-image: linear-gradient(to bottom right, #05b0f7, #0286bd);}
+.forCirclebtnnn .purple{ background-image: linear-gradient(to bottom right, #b500aa, #7d0176);}
+.forCirclebtnnn .radio-button label.orange{ background-image: linear-gradient(to bottom right, #d78901, #a16701);}
+.forCirclebtnnn .radio-button label.parrot{ background-image: linear-gradient(to bottom right, #01ee01, #03af03);}*/
+
+.allgamebgg{background:url("images/jackpotbgg.webp") no-repeat center center; width: 100%;
+  height: 100vh;}
+.forGameLogoScreen{display:flex;align-items:center;justify-content: center; height: 100vh;margin: 0;}
+.settingsdropdown{display:flex; justify-content:space-between;padding: 10px 20px;position:absolute;top:0; left:0;}
+.settingsdroLeft h4{color:#ffe48e; font-size:1.025vw; padding:5px; border:1px solid #ffe48e; margin:7px 0 0 0;width: 122px;text-align: center;font-weight: bold;}
+.settingsdroLeft .fa-user{color:#ffe48e;} 
+.settingsdroLeft .dropdown a{cursor:pointer;}
+.settingsdroLeft .dropdown label{color:#ffe48e;font-weight: bold;}
+.settingsdroRight .fade:not(.show){opacity:1;}
+.settingsdroRight #myModalSetting{background:rgb(0,0,0,0.5);}
+.settingsdroRight .modal-dialog{margin: 0; position: absolute; top: 50%;
+  left: 50%; transform: translate(-50%, -50%) !important; }
+.settingsdroRight .modal-content{background: rgba(143, 3, 16, 0.8);
+  box-shadow: 5px 5px 10px #230004;border-radius:10px;}  
+.settingsdroRight .modal-header{text-align: right;display: inline-block;
+  padding-bottom: 0;border: none;padding: 0;}
+.settingsdroRight .modal-header button.close{background: none; border: none;
+  font-size: 2.196vw; line-height: normal;color:#ffe48e;margin-right: 5px;}
+.settingsdroRight .modal-dialog ul{margin: 20px !important; padding: 0;
+  border: none; background: none; display:flex; justify-content:center; align-items:center;list-style: none;}
+.settingsdroRight .modal-dialog ul li {margin: 0 10px;padding: 0;}
+.settingsdroRight .modal-dialog ul li  a {padding: 10px 15px;margin: 0;
+  background: #f6d685;color: #3b0002;border-radius: 10px;text-align: center;}
+.frSettings{float:right;}
+.settingsdropdown .dropdown-toggle::after {display:none;}
+.settingsdropdown .dropdown-menu.show{margin:0 15px 0 0!important; padding:0;border:none; background:none;}
+.settingsdropdown .dropdown-menu.show li{margin:0; padding:0;}
+.settingsdropdown .dropdown-menu.show li a.dropdown-item{padding:10px 15px; margin:0; background:#f6d685; color:#3b0002;border-radius:10px;text-align:center;}
+.frSettings{padding: 0;background: none;border: none;}
+.GameLogosss{border:0px solid #fff; width:100%; height:auto; border-radius:10px; text-align:center;display: block; padding: 0 0 0 0;}
+.frSettings img{float: right;margin: 0;}
+.forbettt{display:flex; justify-content:space-between; align-items:center; padding:26.40vh 0 0px 0;position: relative;z-index: 99999;}
+.forbetttbtnnn{display:flex; align-items:center;}
+.frusernameHedddd{position:relative;}
+.frusernameHedddd h2.usernameee{position: absolute;font-size: 1.025vw;
+  font-weight: bold;left: 1.098vw;top: 0;margin: 1.098vw 0 0 0;line-height: normal;
+  padding: 0.366vw 1.098vw 0.366vw 0.732vw; z-index:9999999; border-radius:5px 15px 15px 5px;}
+
+.forBottompartt{display:flex; justify-content:space-between; align-items:center; padding:0px 0;position: relative; z-index: 9999;}
+.forBottompartt .frH6outerr{width:15.568vw;height:1.977vw;margin-bottom:1.36vh; position:relative;border-radius: 0.732vw;padding: 0px 0.22vw;border: none;margin:0;}
+.forBottompartt .frH6outerr img{position:absolute;}
+.forBottompartt h6{color: #333;font-size: 0.659vw;text-align: center;background: none; width: 100%;height: auto;font-weight: bold;line-height: 1.977vw;; position:absolute; text-align:center;left: 50%; top:50%; transform: translate(-50%, -50%);}
+.Bottomparttbtnnn{display:flex; align-items:center;border:none;}
+#toolbarContainer{display:none;}
+
+
+#final-value p{ont-weight:bold; color:#333; font-size:0.952vw; margin:0;}
+
+.forBottomCounterr{display:flex; justify-content:space-evenly; align-items:center; padding:0;position: relative;z-index: 99999; margin:0 0 1.70vh 0;}
+.CounterrOuterrbtn{display:flex; align-items:center; flex-direction:column; justify-content:center;position:relative;width:4.392vw; height:auto;}
+.showNobtn{position:absolute; z-index:99999; padding:0px 10px; width:100%; height:2.196vw; line-height:2.196vw; background:none  /* For browsers that do not support gradients */ font-weight:bold; color:#333; font-size:0.952vw; font-weight:bold; text-align:center; text-decoration:none; border-radius:0.732vw;position:absolute; top:0; left:0;}
+.forBottomCounterr .buttonOuterdivvv{width:2.928vw;height:2.928vw; position:relative;margin-top:0.293vw;}
+.forBottomCounterr .buttonOuterdivvv button{padding:0px; width:100%; background:none; margin-right:0; height:auto; border-radius:50%; color:#fff; font-size:1.025vw; font-weight:700;position:absolute; left: 50%; top:50%; transform: translate(-50%, -50%);border:none;}
+.forBottomCounterr button:hover{color:#fff;}
+/*.forBottomCounterr button.active{background:url("images/greenbtn.png") no-repeat 0 0;border: none;}*/
+.active{/*background:url("images/greenbtn.png") no-repeat 0 0;*/border: none;}
+.CounterrOuterrbtn .buttonouterdiv{width:4.392vw; height:2.196vw;}
+.CounterrOuterrbtn .buttonouterdivShowbtn{width:2.928vw; height:2.928vw; position:relative;margin-top: 5px;}
+.CounterrOuterrbtn .buttonouterdivShowbtn button{position:absolute;top:0; left:0;}
+.CounterrOuterrbtn .buttonouterdivShowbtn button span.forActiveNumberrr{position:absolute;top:0; left:0;width:100%;text-align:center;z-index:99999;}
+.CounterrOuterrbtn .buttonouterdivShowbtn img{position:absolute; z-index:99;left:0; top:0;}
+
+/*.CounterrOuterrbtn .buttonouterdivShowbtn button.number-btn .lightThemeColorrr{display:none !important;}*/
+
+.CounterrOuterrbtn .buttonouterdivShowbtn button.number-btn.active .darkThemeColorrr{display:none!important;}
+.CounterrOuterrbtn .buttonouterdivShowbtn button.number-btn.active  .forActiveGreenColorr{display:block!important;}
+
+.CounterrOuterrbtn .buttonouterdivShowbtn button.number-btn .darkThemeColorrr{display:block!important;}
+.CounterrOuterrbtn .buttonouterdivShowbtn button.number-btn .forActiveGreenColorr{display:none!important;}
+
+.CounterrOuterrbtn .buttonouterdivShowbtn button{background:none;z-index:999;position:absolute;border:none;width:100%; text-align:center;line-height:2.928vw;font-size:1.025vw;font-weight:bold;height: 2.928vw;
+  padding: 0;color:#333;}
+.betttbtnnnouterdivforsmallbtnn{width:6.296vw; height:1.977vw; position:relative;margin-right:5px;line-height:1.7vw;}
+.betttbtnnnouterdivforsmallbtnn img{position:absolute; z-index:99;left:0; right:0;paading:0;}
+.betttbtnnnouterdivforsmallbtnn button{background:none;z-index:999;position:absolute;border:none;width:100%; text-align:center;line-height:1.7vw;font-size: 1.171vw;font-weight:600;padding:0;}
+.datalabels {
+    font-size: 30vw !important; /* Adjust as necessary */
+}
+.lastttprevbtn{margin-right:0px !important;}
+button{border:none !important;}
+.buttonouterdiv button{color:#333;}
+/* css for spinner start here */
+*{
+  box-sizing:border-box;
+}
+.forspinner{margin:0;padding:0; display:flex;align-items:center;
+justify-content: center;height:100vh; overflow:hidden;position:absolute;z-index:99;top: 43vh;
+            left: 50%; transform: translate(-50%, -50%);}
+
+.container{
+/*  background:url("images/spinwheel.png") no-repeat 0 0;
+  width:500px;
+  height:500px;
+  background-color: #ccc;
+  border-radius:50%;*/
+  /*border:15px solid #dde;*/
+  /*border-color: #d3ab48;
+  position: relative;
+  overflow: hidden;
+  transition: 5s;*/
+}
+
+
+
+/*.container div{
+  height:50%;
+  width:200px;
+  position: absolute;
+  clip-path: polygon(100% 0 , 50% 100% , 0 0 );
+  transform:translateX(-50%);
+  transform-origin:bottom;
+  text-align:center;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  font-size:40px;
+    text-shadow: 1px 1px #333;
+  font-family: "Rozha One", serif;
+  font-weight: 700;
+  font-style: normal;
+  color:#fef78a;
+  left:150px;
+}*/
+
+ /*.container .zero{
+ background-color: #3f51b5;
+  background-image: linear-gradient(0deg, #fbb804 , #feecba, #feecba, #fbb804);
+  left:50%;
+}*/
+
+
+
+
+/*.arrow::before{
+  content:"\1F817";
+  font-size:50px;
+}*/
+
+
+/* css for spinner end here */
+.glow {
+  -webkit-animation: glowing 500ms infinite;
+  -moz-animation: glowing 500ms infinite;
+  -o-animation: glowing 500ms infinite;
+  animation: glowing 500ms infinite;
+}
+/*@-webkit-keyframes glowing {
+  0% {  -webkit-box-shadow: 1px 1px 3px yellow; }
+  50% {-webkit-box-shadow: 1px 1px 40px yellow; }
+  100% { -webkit-box-shadow: 1px 1px 3px yellow; }
+}
+
+@-moz-keyframes glowing {
+  0% {  -moz-box-shadow: 1px 1px 3px yellow; }
+  50% {  -moz-box-shadow: 1px 1px 40px yellow; }
+  100% { -moz-box-shadow: 1px 1px 3px yellow; }
+}
+
+@-o-keyframes glowing {
+  0% {box-shadow: 1px 1px 3px yellow; }
+  50% { box-shadow: 1px 1px 40px yellow; }
+  100% { box-shadow: 1px 1px 3px yellow; }
+}
+
+@keyframes glowing {
+  0% {box-shadow: 1px 1px 3px yellow; }
+  50% { box-shadow: 1px 1px 40px yellow; }
+  100% { box-shadow: 1px 1px 3px yellow; }
+}*/
+
+/*new*/
+
+/* font for spinner numbers start here */
+
+.wrapper {
+/*width: 90%;
+  max-width: 34.37em;*/
+  max-height: 90vh;
+  position: relative;
+  transform: translate(-50%, -50%);
+  top: 20vh;
+  left: 50%;
+  padding: 3.514vw;
+  border-radius: 1.171vw;
+  box-shadow: 0 4.685vw 5.857vw rgba(27, 8, 53, 0.2);
+
+}
+.forspinner .wrapper .container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+#wheel {
+  max-height: inherit;
+  width: inherit;
+  top: 0;
+  padding: 0;border-radius:50%;
+  border: 0.366vw solid #804b14;
+  outline: 1.464vw solid #ebaa20;
+  filter: drop-shadow(0 0 0.586vw rgb(85,58,1));
+  max-width: 23.426vw !important; 
+  width: 23.426vw !important; 
+            max-height: 90vh; /* Max height relative to viewport height */
+}
+@keyframes rotate {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+#spin-btn {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  height: 30%;
+  width: 30%;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 0;
+  /*background: radial-gradient(#fdcf3b 50%, #d88a40 85%);*/
+  color: #c66e16;
+  text-transform: uppercase;
+  font-size: 2.108vw;
+  letter-spacing: 0.1em;
+  font-weight: 600; z-index:999999;padding: 0;
+}
+.forspinner .wrapper .container #spin-btn img {
+  width: 4em;
+  /*right: -8%;*/
+  top:0px;z-index: 9999;position:absolute;
+  top:0px;
+  left: 50%;
+    transform: translateX(-50%);
+}
+.forspinner .wrapper .container img.spinarrowww {
+  position: absolute;
+  width: 1.757vw; margin-top:0;
+  /*margin-top:0.17vh; 
+  top: 45%;
+  right: -8%;*/
+  /*top:-10.22vh;*/
+  top:-3vh;
+  left: 50%; /* Move the left edge of the div to the center of the parent */
+    transform: translateX(-50%); /* Move the div back by half of its own width to center it */
+}
+
+.horizontal-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 1.977vw;font-size: 1.171vw;
+}
+
+.horizontal-list li {
+    display: inline-block;font-family: "Bevan", serif !important;
+  font-weight: 400;
+  font-style: normal;
+ border-radius:0%;width:10%; height:1.611vw; line-height:1.611vw;
+font-size:1.318vw !important;
+    margin-right: 5px;
+  font-size: 1.171vw; margin:0;
+}
+.horizontal-list li:last-child{margin-right:0;}
+.radio-button input[type="radio"] {
+        display: none;
+      }      
+      .radio-button label {
+        display: inline-block;
+        background-color: #d1d1d1;
+        padding: 4px 11px;
+        font-family: Arial;
+        font-size: 1.318vw;
+        cursor: pointer;
+      }      
+      .radio-button input[type="radio"]:checked+label {
+        /*background:url("images/dallerActive.png") no-repeat 0 0;*/
+        width:4.832vw; height:4.832vw;text-shadow: 0px 1px 3px #333;line-height: 4.832vw !important;display: block; text-align: center;
+  -webkit-animation: glowing 500ms infinite;
+  -moz-animation: glowing 500ms infinite;
+  -o-animation: glowing 500ms infinite;
+  animation: glowing 500ms infinite;width:100%;
+}
+#final-value { /*font-size: 1.5em;*/text-align: center; margin-top: 0; color: #202020; font-weight: 500; z-index:999;height:1.977vw;width:5.124vw;font-weight:bold; text-align:center; text-decoration:none; margin-bottom:4px; border-radius:0px; margin:-1.5vw auto 0.5vw !important;position:relative;}
+#final-value img{position:absolute;}
+#final-value p{position:absolute; width:100%; text-align:center;background:none; border:none;}
+
+
+@media screen and (max-width: 768px) {
+  .wrapper {
+    font-size: 1.563vw;
+  }
+.forspinner .wrapper .container img {
+    right: -5%;
+  }
+}
